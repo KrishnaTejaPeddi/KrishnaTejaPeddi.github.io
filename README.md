@@ -1,2 +1,1 @@
-# krishnaPeddiBlog.github.io
 Blog
