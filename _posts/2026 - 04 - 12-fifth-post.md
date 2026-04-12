@@ -18,6 +18,6 @@ grows these threads in all directions, when it detecs useful nutrients it grows 
 plant roots in  a partnership called mutualism, where both sides benefit: the plant gives the fungus sugars made from sunlight, and in 
 return the fungus helps the plant by delivering hard-to-get nutrients like nitrogen, phosphorus, and water from the soil, sometimes even
 from far  away areas the plant roots cannot reach. This network can connect many plants together, allowing resources and chemical 
-signals to movethrough the soil, which is sometimes called the “wood wide web.”
+signals to movethrough the soil, which is sometimes called the “wood wide web.” 
 
 
