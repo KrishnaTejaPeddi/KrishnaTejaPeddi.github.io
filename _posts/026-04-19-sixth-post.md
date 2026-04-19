@@ -1,7 +1,7 @@
------
-title: Sixth post
-________
-
+---
+layout: post
+title: "First Blog"
+---
 So today I went down a rabbit hole starting with Dante's Inferno which I genuinely didn't know anything about. Turns out it's not part of the Bible which I assumed, 
 just some Italian guy named Dante Alighieri who decided to write the most ambitious poem in history and somehow pulled it off. It's split into three parts — Inferno, Purgatorio 
 and Paradiso — and the word Comedy doesn't mean funny, it just means the story goes from dark to light which is actually a smarter way to define it. Hell has nine circles and
