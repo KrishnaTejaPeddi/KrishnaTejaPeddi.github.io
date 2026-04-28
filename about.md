@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Hey, I'm Krishna Teja Peddi, im 16. 
+Hey, I'm Krishna Teja Peddi.
 
 My hobbies Include photography, animation, drawing, making videos, and learning random things!
 I have a youtube channel it's called atxmixgd, its about visuals in the video game geometry dash.
